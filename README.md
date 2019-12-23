@@ -14,3 +14,4 @@ python 3
     4、time 时间戳防止重复出错
 
 本项目仅做交流学习 有需要改进的地方请告诉我一下 谢谢 感觉有用请点个Star 
+[代码详解](https://blog.csdn.net/qq_29669259/article/details/103666318)
